@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/epictech/static/css/main.ba7e552b.css",
+    "main.js": "/epictech/static/js/main.92cdefa8.js",
+    "static/media/website1.jpg": "/epictech/static/media/website1.ecd9c6080c7d99cbd5ce.jpg",
+    "static/media/website2.jpg": "/epictech/static/media/website2.d4f98e55d493643d806b.jpg",
+    "static/media/graphics.jpg": "/epictech/static/media/graphics.bbe2e93bb3f6dee66446.jpg",
+    "static/media/background.jpg": "/epictech/static/media/background.7a1950db38f3460eef5d.jpg",
+    "index.html": "/epictech/index.html",
+    "main.ba7e552b.css.map": "/epictech/static/css/main.ba7e552b.css.map",
+    "main.92cdefa8.js.map": "/epictech/static/js/main.92cdefa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba7e552b.css",
+    "static/js/main.92cdefa8.js"
+  ]
+}
